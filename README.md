@@ -6,7 +6,7 @@
 
 ---
 
-<img src="./Weegee Virus Prank App/Mega_Weegee.png" alt="That One Dutch Guy" width="150" />
+<img src="./Weegee Virus Prank App/Mega_Weegee.png" alt="That One Dutch Guy" width="500" />
 
 ---
 
